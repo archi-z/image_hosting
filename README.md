@@ -1,2 +1,2 @@
 # image_hosting
-Self-built image hosing
+Self-built image hosting
